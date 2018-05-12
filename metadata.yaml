@@ -1,0 +1,36 @@
+_repo: The-Oxford-Book-of-Latin-VerseFrom-the-earliest-fragments-to-the-end-of-the-Vth-Century-A.D._38503
+_version: 0.1.0
+alternative_title:
+- "The Oxford Book of Latin Verse\r\nFrom the earliest fragments to the end of the\
+  \ 5th Century A.D."
+- "The Oxford Book of Latin Verse\r\nFrom the earliest fragments to the end of the\
+  \ Fifth Century A.D."
+covers:
+- cover_type: archival
+  image_path: 38503-h/images/cover.png
+creator:
+  editor:
+    agent_name: Garrod, H. W. (Heathcote William)
+    alias: Garrod, Heathcote William
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '39500'
+    url: http://www.gutenberg.org/2009/agents/39500
+description: ''
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38503'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin poetry'
+title: 'The Oxford Book of Latin Verse
+
+  From the earliest fragments to the end of the Vth Century A.D.'
+url: http://www.gutenberg.org/ebooks/38503
